@@ -13,7 +13,7 @@ def get_nlp_model():
 nlp_model = get_nlp_model()
 
 # Set the OpenAI API key
-openai.api_key = "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"
+openai.api_key = ""
 
 # Function to scrape job description from a URL
 def scrape_job_description(url):
